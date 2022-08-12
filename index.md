@@ -12,7 +12,10 @@ Current projects:
 
 #### Currently I have a few programming projects which can be found on my GitHub linked on the left under my logo, or you can navigate to the specific repos that interest you:
  - [My GO repo where I'm learning to write and understand GO programs](https://github.com/ian-t-inglis/GO)
+  
   - [My Python repo where I've created the basics of a Discord bot in Python](https://github.com/ian-t-inglis/Discord-bot)
+   
    - [My amended chrome theme as this broke on Linux and MacOS due to the filename of the wallpaper](https://github.com/ian-t-inglis/Rei-Ayanami-Chrome-Theme)
-    - And finally, [the repo where this whole site is being hosted](https://github.com/ian-t-inglis/ian-t-inglis.github.io)
+   
+   - And finally, [the repo where this whole site is being hosted](https://github.com/ian-t-inglis/ian-t-inglis.github.io)
 
