@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Page
 
-Hey there, my name is Atlas and I'm a tech enthusiast from Scotland. I have recently finished part of a university degree in electrical and mechanical engineering, and have returned to work for a bank who I used to work for a few years ago. 
+<span style="color:#a6a6a6;">Hey there, my name is Atlas and I'm a tech enthusiast from Scotland. I have recently finished part of a university degree in electrical and mechanical engineering, and have returned to work for a bank who I used to work for a few years ago.</span>
 
 Outside of work and education, I'm your typical computer loving tech nerd. I'm fascinated with how computers and electronics function, obsessed with cars, love books (especially manga, but the regular kind I enjoy too), enjoy anime, and overall just have all the regular interests a ~90's kid would like skateboarding, Yu-Gi-Oh, and all the other pop hits over the years. 
 
