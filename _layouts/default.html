@@ -29,8 +29,11 @@
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        <img src="/assets/logo.jpg"/>
+        <img src="/assets/images/logo.jpg"/>
         {% endif %}
+
+        <img src="/assets/images/mal.jpg" href="https://myanimelist.net/profile/OriginalAtlas" />
+        <img src="/assets/images/github.jpg" href="https://github.com/ian-t-inglis" />
 
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -49,7 +52,6 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
