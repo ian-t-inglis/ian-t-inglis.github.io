@@ -1,4 +1,4 @@
-<span style="color:#dedcdc;">## Welcome to my GitHub Page</span>
+<span style="color:#dedcdc;"><h2>Welcome to my GitHub Page</h2></span>
 
 <span style="color:#dedcdc;">Hey there, my name is Atlas and I'm a tech enthusiast from Scotland. I have recently finished part of a university degree in electrical and mechanical engineering, and have returned to work for a bank who I used to work for a few years ago.</span>
 
