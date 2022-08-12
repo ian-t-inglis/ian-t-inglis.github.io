@@ -1,3 +1,5 @@
+<span style='background-color:#0d1117'>
+
 ## Welcome to my GitHub Page
 
 Hey there, my name is Atlas and I'm a tech enthusiast from Scotland. I have recently finished part of a university degree in electrical and mechanical engineering, and have returned to work for a bank who I used to work for a few years ago. 
@@ -9,3 +11,4 @@ Here is where I intend to upload projects that I work on in my free time, as I'm
 ```markdown
 Current projects:
 ```
+</span>
