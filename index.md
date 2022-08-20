@@ -19,3 +19,4 @@ Current projects:
    
    - And finally, [the repo where this whole site is being hosted](https://github.com/ian-t-inglis/ian-t-inglis.github.io)
 
+[test link](/pages/test_page.md)
