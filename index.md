@@ -18,3 +18,5 @@ Current projects:
    - [My amended chrome theme as this broke on Linux and MacOS due to the filename of the wallpaper](https://github.com/ian-t-inglis/Rei-Ayanami-Chrome-Theme)
    
    - And finally, [the repo where this whole site is being hosted](https://github.com/ian-t-inglis/ian-t-inglis.github.io)
+
+   [System specs](specs.md)
